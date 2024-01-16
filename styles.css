@@ -31,8 +31,9 @@ body {
 }
 
 #container img {
-  width: 300px;
+  width: 100%;
   border-radius: 10px;
+  display: block;
 }
 
 #container p, h1 {
